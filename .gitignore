@@ -21,6 +21,7 @@ target/
 .pydevproject
 *.pyc
 *.asc
+*.swp
 
 # JetBrains IDE
 .idea
